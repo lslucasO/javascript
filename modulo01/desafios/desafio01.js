@@ -1,3 +1,5 @@
+// Blocos de código
+
 {
     // Bloco 1
     console.log(1);
